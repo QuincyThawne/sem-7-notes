@@ -1,0 +1,28 @@
+INTRODUCTION TO GENERATIVE AI 
+
+
+UNIT I INTRODUCTION 
+
+Generative Models – Image transformation – Challenges - Deep Neural Networks –
+Perceptron – back propagation – CNN – RNN – Optimizer.
+
+UNIT II IMAGE GENERATION 
+
+Creating encodings of images – variational objective – Inverse Autoregressive flow –
+Importing CIFAR – Creating the network from TensorFlow 2.
+
+UNIT III GENERATIVE ADVERSARIAL NETWORKS 
+
+Generative Adversarial Networks – Vanilla GAN – Improved GANs – Progressive GAN –
+Challenges – Paired style transfer – Unpaired style transfer – Deepfakes – Modes of
+operation – key feature set – High level flow – Replacement – Re-enactment.
+
+UNIT IV LARGE LANGUAGE MODELS 
+
+Overview of LLMs - Transformers – GPT – Types of LLMs – Key concepts – other
+Transformers – T5 – Generative Pre-Training Models – Multi-modal Models – DALL.E 2
+
+UNIT V PROMPT ENGINEERING 
+
+Basics – In-Context Learning – In-Context Prompting – Techniques – Image Prompting
+– Prompt Hijacking – Challenges.

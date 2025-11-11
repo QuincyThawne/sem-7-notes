@@ -1,0 +1,34 @@
+ 22CS930- ENTERPRISECYBER SECURITY
+ 
+ Unit-I INTRODUCTIONTOCYBERSECURITY
+ 
+ Cyber Security– Need of Cybersecurity in Organizations– CIA Triad- Confidentiality,
+ Integrity, Availability; Reason for Cyber Crime–Need for Cyber Security– History of Cyber
+ Crime; Cybercriminals– Classification of Cybercrimes– A Global Perspective on Cyber
+ Crimes; Cyber Laws– The Indian IT Act–Cybercrime and Punishment.
+ 
+ Unit II: NETWORK SECURITY BASICS
+ 
+  Network Security Concepts- Basics of Networks- Common Types of Network Attacks
+Introduction to Firewalls- Types of Firewalls- IDS/IPS- Virtual Private Networks (VPN’s)
+Secure configuration and management of network devices. Case Study: Install Kali Linux on
+ Virtual box.
+ 
+ Unit III: SECURECOMMUNICATION PROTOCOLS
+ 
+ Encryption Principles- Cryptography, Cryptanalysis, Feistel Cipher Structure. Block Encryption
+ algorithms: DES, triple DES, and AES. Transport-Level Security: Secure Sockets Layer (SSL),
+ Transport Layer Security (TLS). Electronic Mail Security- Pretty Good Privacy (PGP), S/MIME.
+ Securing wireless networks: WPA, WPA2, WPA3.
+ 
+ Unit IV :INTRUSION DETECTION ANDPREVENTION SYSTEMS 9
+ IDPS- Need of Intrusion Detection Systems in Cyber Security- Types of IDPS:
+ Network-based and Host-based. Configuring and Managing IDPS for threat
+ detection using Honeypots. Case Study: Setup a honey pot and monitor the
+ honey pot onnetwork.
+ 
+ Unit V :WEBAPPLICATION SECURITY
+ 
+ Introduction to Web Application Vulnerabilities– Cross Site Scripting (XSS)
+SQL injection- Denial of Service (DoS)- Web Application Testing- Types of
+ Penetration Tests- OWASP and OWASP Top.

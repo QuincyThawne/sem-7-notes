@@ -1,0 +1,30 @@
+AI IN BLOCKCHAIN
+
+UNIT 1      INTRODUCTION TO BLOCKCHAIN
+
+Blockchain vs Distributed Ledger Technology vs DIstributed Databases - Public vs private 
+vs permissioned blockchains - Privacy in blockchains - Blockchain Platforms - Hyperledger - 
+Hashgraph, Corda - IOTA - Consensus Algorithms - Building DApps with blockchain tools.
+
+UNIT 2      BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE
+
+Introduction to the AI landscape - AI and Blockchain driven Databases - Centralized vs Distributed
+data - Blockchain data - Big data for AI analysis - Global databases - Data Management in a DAO -
+Benefits of combining blockchain and AI - Aicumen Technologies -Combining blockchain and AI to
+humanize digital interactions.
+
+UNIT 3      CRYPTOCURRENCY AND AI
+
+Bitcoins - Ethereum - Role of AI in cryptocurrency - cryptocurrency trading - Making price
+predictions with AI - Market making - future of cryptocurrencies.
+
+UNIT 4      DEVELOPING BLOCKCHAIN PRODUCTS
+
+Development Life Cycle of a DIApp - Designing a DIApp - Developing a DIApp - Testing -
+Deploying - Monitoring - Implementing DIApps.
+
+UNIT 5      LIMITATIONS AND FUTURE OF AI WITH BLOCKCHAIN
+
+Technical Challenges - Business Model Challenges - Scandals and Public perception - Government
+Regulation - Privacy Challenges for Personal Records - Convergence of AI with Blockchain - Future -
+Enterprise.

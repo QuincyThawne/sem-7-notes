@@ -1,0 +1,179 @@
+# Enterprise Cyber Security
+
+## UNIT 1
+
+- Introduction
+- CIA Triad
+    - Confidentiality
+    - Integrity
+    - Availability
+- Reason for Cyber crime
+    - Ease of Committing
+    - High reward to risk ratio
+    - Anonymity
+    - Espionage
+    - Hacktivism
+- Need for Cybersecurity
+    - COVID-19
+    - Damage to ORGs
+    - Regulatory and Legal consequences
+- History of Cybercrime
+- Evolution of Cybercrime
+- Classification of Cybercrime
+    - Active
+    - Passive
+- Types of Cybercrime
+    - Phishing
+    - Cyber Bullying
+    - Identity Theft
+    - Cyberstalking
+- Hacking 
+    - Types of Hacking
+        - Black Hat
+        - White Hat
+        - Grey Hat
+        - Hacktivism
+        - Script Kiddies
+- DDoS
+    - UDP Flood
+    - ICMP Flood
+    - SYN Flood
+    - TCP Connection
+    - TCP Reset Attack
+    - IP Fragmentation
+    - Smurf Attack
+    - Ping of Death
+    - Salami Attack
+    - Email Bombing
+- Cyber Laws
+    - IT Act
+    - Punishment and Legal Consequences
+
+## UNIT 2
+
+- Network Security
+- Basic Network Concepts
+    - OSI
+- Network Vulnerabilities
+    - Anonymity
+    - Points of Attack
+    - Resource and Workload Sharing
+    - System Complexity
+    - Unknwon Boundary Vulnerabilities
+- Netowk Attacks
+    - Active Attacks
+        - DoS and DDoS
+        - MitM
+        - SQLi
+        - Privilege Escalation
+        - Malware
+        - Phishing
+        - Ransomware
+        - Botnets
+    - Passive Attacks
+        - Eavesdropping
+        - Packet Sniffing
+        - Traffic Analysis
+- Firewall
+    - Hardware firewall vs Sofware firewall
+    - Geneartion Firewall
+    - Types of Firewall
+        - Packet filtering
+        - Stateful Inspection
+        - Proxy Firewall
+        - Next Geneartion Firewall
+        - Software Firewall
+        - Hardware Firewall
+- VPN
+    - Benefits of VPN
+- Installing Kali Linux
+
+## UNIT 3
+
+- Encryption Principles
+    - Cryptography
+        - Types of Cryptography
+            - Symmetric-key Cryptography
+            - Asymmetric-key Cryptography
+            - Hashing
+    - Cryptanalysis
+        - Feistal Cipher Structure
+- Block Encryption Algorithms
+    - Data Encryption Standard (DES)
+    - Triple DES
+    - Advanced Encryption Standard (AES)
+- Transport Layer Security (TLS)
+    - Secure Sockets Layer (SSL)
+        - Handshake Protocol
+        - Types of SSL  
+- Electronic Mail Security
+- Pretty Good Privacy
+- Secure/Multipurpose Internet Mail Extensions
+- Securing Wireless Networks
+    - WPA (Wi-Fi Protected Access)
+    - WPA2 (Wi-Fi Protected Access 2)
+    - WPA3 (Wi-Fi Protected Access 3)
+
+## UNIT 4
+
+- IDPS 
+    - Types of IDPS
+        - Host based IDS
+        - Network based IDS
+- Configuring IDPS for Honepot 
+- Working of Honeypot
+- Different Types of Honeypots
+    - Malware
+    - Spam
+    - Database
+    - Client
+    - Honeynet
+- GenI Honeypot Architecture
+    - Firewall (Gateway)
+    - IDS
+    - Data Collection Framework
+    - Data Capture Categories
+- Casestudy of setting up honeypot using docker
+
+## UNIT 5
+
+- Introduction 
+    - Common Web Vulns
+        - SQLi
+        - XSS
+        - CSRF
+        - Session fixation
+        - Local File Inclusion
+        - Security Misconfigurations
+        - XML External Entities (XEE)
+        - Path Traversal attacks
+- XSS
+    - Reflected
+    - Stored 
+    - DOM based
+- SQLi
+    - Blind SQLi
+- DoS
+- Web Pentest
+    - Types
+        - Black box
+        - White box
+        - Grey box
+    - Tools used
+        - Burpsuite
+        - OWASP ZAP
+        - Nessus
+        - Nikto
+        - Wireshark
+- OWASP Top 10
+    - BAC
+    - Crypt Failures
+    - Injection
+    - Insecure Design
+    - Security Misconfig
+    - External Entities
+    - Identification and Auth Failures
+    - Software and Data Integrity Failures
+    - Security Logging and Monitoring Failures
+    - SSRF
+    

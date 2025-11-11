@@ -1,0 +1,42 @@
+22CS701 CRYPTOGRAPHY AND CYBER SECURITY 
+
+UNIT I INTRODUCTION TO SECURITY 
+
+Computer Security Concepts – The OSI Security Architecture – Security Attacks – 
+Security Services and Mechanisms – A Model for Network Security – Classical 
+encryption techniques: Substitution techniques, Transposition techniques, 
+Steganography –Foundations of modern cryptography: Perfect security – 
+Information Theory – Product Cryptosystem – Cryptanalysis.
+
+UNIT II SYMMETRIC CIPHERS 
+
+Number theory – Algebraic Structures – Modular Arithmetic - Euclid‘s algorithm –
+Congruence and matrices – Group, Rings, Fields, Finite Fields SYMMETRIC KEY 
+CIPHERS: SDES – Block Ciphers – DES, Strength of DES – Differential and linear 
+cryptanalysis – Block cipher design principles – Block cipher mode of operation
+– Evaluation criteria for AES – Pseudorandom Number Generators – RC4 – Key
+distribution.
+
+UNIT III ASYMMETRIC CRYPTOGRAPHY 
+
+MATHEMATICS OF ASYMMETRIC KEY CRYPTOGRAPHY: Primes – Primality Testing 
+–Factorization – Euler’s totient function, Fermat’s and Euler’s Theorem – Chinese 
+Remainder Theorem – Exponentiation and logarithm ASYMMETRIC KEY CIPHERS: 
+RSA cryptosystem – Key distribution – Key management – Diffie Hellman key 
+exchange -– Elliptic curve arithmetic – Elliptic curve cryptography.
+
+UNIT IV INTEGRITY AND AUTHENTICATION ALGORITHMS 
+
+Authentication requirement – Authentication function – MAC – Hash function – 
+Security of hash function: HMAC, CMAC – SHA – Digital signature and 
+authentication protocols – DSS – Schnorr Digital Signature Scheme – ElGamal 
+cryptosystem – Entity Authentication: Biometrics, Passwords, Challenge Response 
+protocols – Authentication applications – Kerberos MUTUAL TRUST: Key 
+management and distribution – Symmetric key distribution using symmetric and 
+asymmetric encryption – Distribution of public keys – X.509 Certificates
+
+UNIT V CYBER CRIMES AND CYBER SECURITY 
+
+Cyber Crime and Information Security – classifications of Cyber Crimes – Tools and
+Methods – Password Cracking, Keyloggers, Spywares, SQL Injection – Network 
+Access Control – Cloud Security – Web Security – Wireless Security

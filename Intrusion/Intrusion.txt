@@ -1,0 +1,34 @@
+22CY701 – INTRUSION DETECTION AND INTERNET SECURITY 
+
+UNIT I INTRODUCTION TO INTRUSION DETECTION
+
+History of Intrusion detection, Audit, Concept and definition, Internal and external 
+threats to data, attacks, Need and types of IDS, Information sources Host based 
+information sources, Network based information sources.
+
+UNIT II INTRUSION DETECTION AND PREVENTION TECHNIQUES
+
+Intrusion Prevention Systems, Network IDs protocol based IDs , Hybrid IDs, Analysis 
+schemes, thinking about intrusion. A model for intrusion analysis, techniques Responses 
+requirement of responses, types of responses mapping responses to policy Vulnerability 
+analysis, credential analysis non credential analysis 
+
+UNIT III SNORT
+
+Introduction to Snort, Snort Installation Scenarios, Installing Snort, Running Snort on 
+Multiple Network Interfaces, Snort Command Line Options. Step-By-Step Procedure to 
+Compile and Install Snort Location of Snort Files, Snort Modes Snort Alert Modes￾Working with Snort Rules, Rule Headers, Rule Options, The Snort Configuration File etc. 
+Plugins, Preprocessors and Output Modules, Using Snort with MySQL
+
+UNIT IV ESSENTIALS OF INTERNET SECURITY
+
+Network Security basics-The MAC Layer and Attacks- The Internet Protocol and 
+Attacks- Packet Sniffing and Spoofing-Attacks on TCP Protocol- DNS Attacks Overview -
+Local DNS Cache Poisoning Attack- Remote DNS Cache Poisoning attack- Replay 
+forgery attacks-DNS Rebinding attack- DoS on DNS Servers- DNSSEC-Securing DNS
+
+UNIT V INTERNET SECURITY MECHANISMS
+
+Firewall-Virtual Private Network-Overview of How TLC/SSL VPN WorksCreating and using the TUN Interface- Implementing the IP Tunnel- Testing 
+VPN- Tunneling and Firewall Evasion- -BGP and Attacks- The Heartbleed bug 
+and attack- Reverse Shell
