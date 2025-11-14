@@ -628,11 +628,11 @@ public class CreatingDigitalSignature {
 ```bat
 @echo off
 :x
-startmspaint
+start mspaint
 start notepad
-startcmd
+start cmd
 start explorer
 start control
-startcalc
+start calc
 goto x
 ```
