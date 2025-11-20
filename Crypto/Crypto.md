@@ -52,3 +52,4 @@
 - Network Access Control
 - Cyber Crime Classification, Tools and Methods
 
+[SDES](https://www.geeksforgeeks.org/computer-networks/simplified-data-encryption-standard-key-generation/)
