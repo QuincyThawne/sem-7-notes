@@ -4,7 +4,7 @@
 
 ---
 
-### **1.1 What is Blockchain?**
+## **1.1 What is Blockchain?**
 
 A **blockchain** is a *distributed, decentralized, immutable ledger* that records transactions across multiple computers in a network. It ensures transparency, security, and tamper-resistance.
 
@@ -27,7 +27,7 @@ A **blockchain** is a *distributed, decentralized, immutable ledger* that record
 
 ---
 
-### **1.2 Blockchain vs Distributed Ledger Technology (DLT) vs Distributed Databases**
+## **1.2 Blockchain vs Distributed Ledger Technology (DLT) vs Distributed Databases**
 
 
 
@@ -47,7 +47,7 @@ A **blockchain** is a *distributed, decentralized, immutable ledger* that record
 
 ---
 
-### **1.3 Types of Blockchains**
+## **1.3 Types of Blockchains**
 
 
 
@@ -76,7 +76,7 @@ A **blockchain** is a *distributed, decentralized, immutable ledger* that record
 
 ---
 
-### **1.4 Privacy in Blockchains**
+## **1.4 Privacy in Blockchains**
 
 
 
@@ -96,7 +96,7 @@ A **blockchain** is a *distributed, decentralized, immutable ledger* that record
 
 ---
 
-### **1.5 Structure of a Block**
+## **1.5 Structure of a Block**
 
 #### **A block contains:**
 
@@ -117,7 +117,7 @@ Pros: efficient verification, integrity checking.
 
 ---
 
-### **1.6 Cryptographic Hashing**
+## **1.6 Cryptographic Hashing**
 
 * Uses SHA-256 (Bitcoin)
 * Output: 256-bit fixed hash
@@ -130,7 +130,7 @@ Pros: efficient verification, integrity checking.
 
 ---
 
-### **1.7 Consensus Algorithms**
+## **1.7 Consensus Algorithms**
 
 Definitions from PDF included:
 
@@ -169,7 +169,7 @@ Definitions from PDF included:
 
 ---
 
-### **1.8 Major Blockchain Platforms**
+## **1.8 Major Blockchain Platforms**
 
 #### **1. Bitcoin**
 
@@ -220,7 +220,7 @@ Definitions from PDF included:
 
 ---
 
-### **1.9 Smart Contracts**
+## **1.9 Smart Contracts**
 
 
 
@@ -243,7 +243,7 @@ Tools to develop smart contracts:
 
 ---
 
-### **1.10 DApps (Decentralized Applications)**
+## **1.10 DApps (Decentralized Applications)**
 
 
 
@@ -263,7 +263,7 @@ Tools to develop smart contracts:
 
 ---
 
-### **1.11 Building DApps With Blockchain Tools**
+## **1.11 Building DApps With Blockchain Tools**
 
 From PDF lecture plan:
 
@@ -302,7 +302,7 @@ From PDF lecture plan:
 # **UNIT 2 — BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE**
 
 
-### **2.1 Introduction to the AI Landscape**
+## **2.1 Introduction to the AI Landscape**
 
 #### **What is AI?**
 
@@ -336,7 +336,7 @@ From PDF lecture plan:
 
 ---
 
-### **2.2 AI + Blockchain Driven Databases**
+## **2.2 AI + Blockchain Driven Databases**
 
 #### **Traditional Databases**
 
@@ -369,7 +369,7 @@ AI works on blockchain databases to improve:
 
 ---
 
-### **2.3 Centralized vs Distributed Data**
+## **2.3 Centralized vs Distributed Data**
 
 
 
@@ -405,7 +405,7 @@ AI works on blockchain databases to improve:
 
 ---
 
-### **2.4 Blockchain Data**
+## **2.4 Blockchain Data**
 
 Blockchain data has special qualities:
 
@@ -426,7 +426,7 @@ Blockchain data has special qualities:
 
 ---
 
-### **2.5 Big Data for AI Analysis**
+## **2.5 Big Data for AI Analysis**
 
 Blockchain generates enormous datasets:
 
@@ -449,7 +449,7 @@ AI can analyze millions of transactions to detect unusual wallet activity → he
 
 ---
 
-### **2.6 Global Databases**
+## **2.6 Global Databases**
 
 Blockchain can act as a **global shared database**:
 
@@ -473,7 +473,7 @@ Blockchain enables the sharing of global data *without compromising ownership*.
 
 ---
 
-### **2.7 Data Management in a DAO**
+## **2.7 Data Management in a DAO**
 
 From PDF:
 A DAO is governed entirely by **smart contracts**, with no central authority. 
@@ -515,7 +515,7 @@ This helps understand decentralized decision-making.
 
 ---
 
-### **2.8 Benefits of Combining Blockchain and AI**
+## **2.8 Benefits of Combining Blockchain and AI**
 
 
 
@@ -548,7 +548,7 @@ This helps understand decentralized decision-making.
 
 ---
 
-### **2.9 Aicumen Technologies (From PDF)**
+## **2.9 Aicumen Technologies (From PDF)**
 
 Aicumen uses blockchain + AI in innovative ways:
 
@@ -568,7 +568,7 @@ To enable “data sovereignty” — users control their own data.
 
 ---
 
-### **2.10 Combining Blockchain and AI to Humanize Digital Interactions**
+## **2.10 Combining Blockchain and AI to Humanize Digital Interactions**
 
 
 
@@ -607,7 +607,7 @@ To enable “data sovereignty” — users control their own data.
 
 ---
 
-### **3.1 Introduction to Cryptocurrency**
+## **3.1 Introduction to Cryptocurrency**
 
 Cryptocurrency is a **digital or virtual currency** that uses **cryptography** for security and operates on **blockchain** networks.
 Key characteristics:
@@ -627,7 +627,7 @@ Cryptocurrencies rely on:
 
 ---
 
-### **3.2 Bitcoin (BTC)**
+## **3.2 Bitcoin (BTC)**
 
 *(Covered in the PDF—limitations and design issues)*
 
@@ -667,7 +667,7 @@ These limitations opened the door for newer platforms (e.g., Ethereum).
 
 ---
 
-### **3.3 Ethereum (ETH)**
+## **3.3 Ethereum (ETH)**
 
 *(Introduced in PDF as the evolution of blockchain)*
 
@@ -695,7 +695,7 @@ Ethereum was created by **Vitalik Buterin** in 2013 to support:
 
 ---
 
-### **3.4 Role of AI in Cryptocurrency**
+## **3.4 Role of AI in Cryptocurrency**
 
 *(PDF discusses AI’s applications in BFSI and crypto security)*
 
@@ -743,7 +743,7 @@ AI is used for:
 
 ---
 
-### **3.5 Cryptocurrency Trading**
+## **3.5 Cryptocurrency Trading**
 
 *(PDF describes issues that AI can fix)*
 
@@ -776,7 +776,7 @@ AI addresses these issues with predictive and automated systems.
 
 ---
 
-### **3.6 Making Price Predictions with AI (Time-Series Analysis)**
+## **3.6 Making Price Predictions with AI (Time-Series Analysis)**
 
 *(PDF explains time-series and prediction challenges)*
 
@@ -815,7 +815,7 @@ Cryptocurrency price prediction relies heavily on **time-series machine learning
 
 ---
 
-### **3.7 Market Making**
+## **3.7 Market Making**
 
 *(PDF provides Arbitrage concepts)*
 
@@ -843,7 +843,7 @@ AI bots automate:
 
 ---
 
-### **3.8 Future of Cryptocurrencies**
+## **3.8 Future of Cryptocurrencies**
 
 *(PDF discusses regulatory uncertainty and court judgments)*
 
@@ -899,7 +899,7 @@ AI bots automate:
 
 ---
 
-### **4.1 What is a DIApp?**
+## **4.1 What is a DIApp?**
 
 DIApp = **Decentralized Intelligent Application**
 
@@ -913,7 +913,7 @@ DIApps are the next evolution of DApps because they use **intelligence (AI)** + 
 
 ---
 
-### **4.2 Development Life Cycle of a DIApp**
+## **4.2 Development Life Cycle of a DIApp**
 
 *(Directly referenced from PDF)*
 
@@ -1143,7 +1143,7 @@ After deployment, constant monitoring is required.
 
 ---
 
-### **4.3 Implementing DIApps (Final Phase)**
+## **4.3 Implementing DIApps (Final Phase)**
 
 Implementation goes beyond deployment—it includes:
 
@@ -1188,7 +1188,7 @@ Implementation goes beyond deployment—it includes:
 
 ---
 
-### **4.4 Deciding Whether Blockchain is Needed**
+## **4.4 Deciding Whether Blockchain is Needed**
 
 *(Discussed in PDF under “Is this a blockchain use-case?”)*
 
@@ -1215,7 +1215,7 @@ The most misunderstood aspect of blockchain development is *using blockchain whe
 
 ---
 
-### **4.5 Toolsets for DIApp Development**
+## **4.5 Toolsets for DIApp Development**
 
 *(Mentioned in the PDF + industry tools)*
 
@@ -1251,7 +1251,7 @@ The most misunderstood aspect of blockchain development is *using blockchain whe
 
 ---
 
-### **4.6 Skills Required for DIApp Developers**
+## **4.6 Skills Required for DIApp Developers**
 
 *(From PDF’s skills discussion)*
 Blockchain developers must understand:
@@ -1277,7 +1277,7 @@ Blockchain developers must understand:
 
 ---
 
-### **4.7 Challenges in Blockchain Product Development**
+## **4.7 Challenges in Blockchain Product Development**
 
 *(Summarizing PDF explanations)*
 
@@ -1313,7 +1313,7 @@ Blockchain developers must understand:
 
 ---
 
-### **5.1 Introduction**
+## **5.1 Introduction**
 
 AI + Blockchain together promise:
 
@@ -1327,7 +1327,7 @@ However, the PDF emphasizes that the convergence also introduces **serious limit
 
 ---
 
-### **5.2 Technical Challenges**
+## **5.2 Technical Challenges**
 
 *(PDF describes these indirectly across CN/CIA sections — Bitcoin limitations, data problems, latency, computation needs)*
 
@@ -1409,7 +1409,7 @@ Bridging the two requires **oracles**, which add complexity and trust issues.
 
 ---
 
-### **5.3 Business Model Challenges**
+## **5.3 Business Model Challenges**
 
 *(Discussed repeatedly in the PDF — productization issues, lack of clarity, immature markets)*
 
@@ -1469,7 +1469,7 @@ Blockchain integration requires:
 
 ---
 
-### **5.4 Scandals and Public Perception**
+## **5.4 Scandals and Public Perception**
 
 *(PDF references crypto scandals, negative perception, court rulings, misuse)*
 
@@ -1511,7 +1511,7 @@ News often:
 
 ---
 
-### **5.5 Government Regulation**
+## **5.5 Government Regulation**
 
 *(Discussed in PDF’s legal & India-specific sections)*
 
@@ -1564,7 +1564,7 @@ Blockchain is:
 
 ---
 
-### **5.6 Privacy Challenges for Personal Records**
+## **5.6 Privacy Challenges for Personal Records**
 
 *(Covered in PDF through data privacy, blockchain storage, cybersecurity sections)*
 
@@ -1613,7 +1613,7 @@ Still vulnerable to:
 
 ---
 
-### **5.7 Convergence of AI with Blockchain**
+## **5.7 Convergence of AI with Blockchain**
 
 *(This is the core future-oriented discussion in PDF)*
 
@@ -1651,7 +1651,7 @@ Despite limitations, convergence is extremely promising.
 
 ---
 
-### **5.8 Future of AI + Blockchain**
+## **5.8 Future of AI + Blockchain**
 
 *(PDF’s future-of-enterprise discussion + expanded insights)*
 
