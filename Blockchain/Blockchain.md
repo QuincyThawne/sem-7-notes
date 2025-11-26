@@ -1331,7 +1331,7 @@ However, the PDF emphasizes that the convergence also introduces **serious limit
 
 *(PDF describes these indirectly across CN/CIA sections — Bitcoin limitations, data problems, latency, computation needs)*
 
-## **1. Scalability Issues**
+### **1. Scalability Issues**
 
 Blockchain networks like Bitcoin and Ethereum are slow:
 
@@ -1349,7 +1349,7 @@ AI systems require:
 
 ---
 
-## **2. Storage Limitations**
+### **2. Storage Limitations**
 
 Blockchain storage is:
 
@@ -1367,7 +1367,7 @@ AI requires:
 
 ---
 
-## **3. Performance Bottlenecks**
+### **3. Performance Bottlenecks**
 
 AI = high compute (GPU/TPU)
 Blockchain = slow compute (consensus-heavy)
@@ -1380,7 +1380,7 @@ Issues:
 
 ---
 
-## **4. Consensus Overhead**
+### **4. Consensus Overhead**
 
 Many blockchains (PoW, PBFT) require:
 
@@ -1392,7 +1392,7 @@ Many blockchains (PoW, PBFT) require:
 
 ---
 
-## **5. Interoperability Challenges**
+### **5. Interoperability Challenges**
 
 AI systems use:
 
@@ -1413,7 +1413,7 @@ Bridging the two requires **oracles**, which add complexity and trust issues.
 
 *(Discussed repeatedly in the PDF — productization issues, lack of clarity, immature markets)*
 
-## **1. Immature Ecosystem**
+### **1. Immature Ecosystem**
 
 Enterprises do not fully understand:
 
@@ -1429,7 +1429,7 @@ Many blockchain projects fail due to:
 
 ---
 
-## **2. High Initial Cost**
+### **2. High Initial Cost**
 
 AI + blockchain requires:
 
@@ -1442,7 +1442,7 @@ Investment is high, with uncertain returns.
 
 ---
 
-## **3. Lack of Standardization**
+### **3. Lack of Standardization**
 
 * No universal smart contract standards across chains
 * No unified AI model governance
@@ -1452,7 +1452,7 @@ This leads to fragmentation and vendor lock-in.
 
 ---
 
-## **4. Integration With Legacy Systems**
+### **4. Integration With Legacy Systems**
 
 Banks, hospitals, industries operate on:
 
@@ -1473,7 +1473,7 @@ Blockchain integration requires:
 
 *(PDF references crypto scandals, negative perception, court rulings, misuse)*
 
-## **1. Crypto Scams and Hacks**
+### **1. Crypto Scams and Hacks**
 
 Billions lost to:
 
@@ -1486,7 +1486,7 @@ This damages public trust in blockchain projects.
 
 ---
 
-## **2. Volatility & Market Manipulation**
+### **2. Volatility & Market Manipulation**
 
 Crypto market = highly speculative
 AI models struggle due to:
@@ -1499,7 +1499,7 @@ AI models struggle due to:
 
 ---
 
-## **3. Media Misrepresentation**
+### **3. Media Misrepresentation**
 
 News often:
 
@@ -1515,7 +1515,7 @@ News often:
 
 *(Discussed in PDF’s legal & India-specific sections)*
 
-## **1. Lack of Clear Regulations**
+### **1. Lack of Clear Regulations**
 
 Different countries treat crypto differently:
 
@@ -1533,7 +1533,7 @@ Combining both increases legal ambiguity.
 
 ---
 
-## **2. India-Specific Issues (From PDF)**
+### **2. India-Specific Issues (From PDF)**
 
 
 
@@ -1546,7 +1546,7 @@ Regulatory uncertainty discourages large-scale blockchain-AI deployment.
 
 ---
 
-## **3. Compliance Complexity**
+### **3. Compliance Complexity**
 
 AML, KYC, GDPR require:
 
@@ -1568,7 +1568,7 @@ Blockchain is:
 
 *(Covered in PDF through data privacy, blockchain storage, cybersecurity sections)*
 
-## **1. Immutable Data vs Right to Forget**
+### **1. Immutable Data vs Right to Forget**
 
 Blockchain data cannot be deleted, but laws like GDPR require:
 
@@ -1579,7 +1579,7 @@ This creates a contradiction.
 
 ---
 
-## **2. Sensitive Data Leakage**
+### **2. Sensitive Data Leakage**
 
 Personal data on-chain leads to:
 
@@ -1597,7 +1597,7 @@ AI systems require private information for:
 
 ---
 
-## **3. Cybersecurity Risks**
+### **3. Cybersecurity Risks**
 
 PDF highlights:
 
